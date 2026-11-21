@@ -24,6 +24,7 @@ How To RUN :
 4. Right-click jquery-dom.html and select Open with Live Server.
 
 Screenshots
+
 Question 1: JSON File
 
 ![Q1 JSON File](books-json.png)

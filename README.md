@@ -25,13 +25,13 @@ How To RUN :
 
 Screenshots
 Question 1: JSON File
-![Q1 JSON File](screenshots/books-json.png)
+![Q1 JSON File](books-json.png)
 
 QUESTION 2 SCREENSHOT : Fetch API Output
-![Q2 Output](screenshots/books-output.png)
+![Q2 Output](books-output.png)
 
 QUESTION 3 SCREENSHOT : jQuery DOM Manipulation
-![Q3 DOM Manipulation](screenshots/jquery-page.png)
-![Q3 Alert Popup](screenshots/jquery-alert.png)
+![Q3 DOM Manipulation](jquery-page.png)
+![Q3 Alert Popup](jquery-alert.png)
 
 GitHub Repository Link : https://github.com/jsmeee/lab4b-json-jquery

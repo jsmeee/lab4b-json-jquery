@@ -25,6 +25,7 @@ How To RUN :
 
 Screenshots
 Question 1: JSON File
+
 ![Q1 JSON File](books-json.png)
 
 QUESTION 2 SCREENSHOT : Fetch API Output
